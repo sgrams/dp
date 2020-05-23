@@ -13,6 +13,7 @@ target_link_libraries(utsingleton
   PRIVATE
   singleton
   ${GTEST_LIBRARIES}
+  ${CMAKE_THREAD_LIBS_INIT}
   )
 
 enable_testing()
