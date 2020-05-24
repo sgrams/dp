@@ -1,0 +1,3 @@
+[submodule "01-singleton/lib/cista"]
+	path = 01-singleton/lib/cista
+	url = https://github.com/felixguendling/cista.git
