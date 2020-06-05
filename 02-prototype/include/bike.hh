@@ -9,8 +9,12 @@
 #include <iostream>
 
 enum BikeType {
-  mountain,
-  road
+  trek,
+  specialized,
+  giant,
+  kross,
+  rondo,
+  merida
 };
 
 /*
@@ -29,7 +33,6 @@ class Bike {
     virtual Bike *clone () const = 0;
     virtual void take_the_bike_out (float kilometrage);
 };
-
 
 /*
   MountainBike class

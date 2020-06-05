@@ -16,13 +16,12 @@ class Garage {
   protected:
     std::string        _garage_name;
     unsigned           _garage_capacity{0};
-    std::vector <Bike> &_garage_content;
 
   public:
     Garage (
       std::string name,
       int capacity,
-      std::vector<Bike> &content):
+      std::vector<Bike *> &content):
       _garage_name (name),
       _garage_capacity (capacity),
       _garage_content (content) {
@@ -30,6 +29,8 @@ class Garage {
           throw std::invalid_argument ("Most likely your garage is too small!");
         }
       }
+
+    std::vector <Bike *> &_garage_content;
 
     // interfaces
     virtual ~Garage () {};
@@ -49,7 +50,7 @@ class CompactGarage : public Garage {
     CompactGarage (
       std::string name,
       int capacity,
-      std::vector<Bike> content,
+      std::vector<Bike *> content,
       std::string owner):
       Garage (name, capacity, content),
       _garage_owner (owner) {

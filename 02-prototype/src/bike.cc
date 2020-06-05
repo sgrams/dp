@@ -8,13 +8,21 @@
   BikePrototypeFactory class
 */
 BikePrototypeFactory::BikePrototypeFactory () {
-  _prototypes[BikeType::mountain] = new MountainBike ("gooral", "stalowe");
-  _prototypes[BikeType::road] = new RoadBike ("gooral", "shimano");
+  _prototypes[BikeType::trek]        = new MountainBike ("trek", "steel");
+  _prototypes[BikeType::specialized] = new MountainBike ("specialized", "steel");
+  _prototypes[BikeType::giant]       = new MountainBike ("giant", "plastic");
+  _prototypes[BikeType::kross]       = new RoadBike ("kross", "shimano");
+  _prototypes[BikeType::rondo]       = new RoadBike ("rondo", "shimano");
+  _prototypes[BikeType::merida]      = new RoadBike ("merida", "sram");
 }
 
 BikePrototypeFactory::~BikePrototypeFactory () {
-  delete _prototypes[BikeType::mountain];
-  delete _prototypes[BikeType::road];
+  delete _prototypes[BikeType::trek];
+  delete _prototypes[BikeType::specialized];
+  delete _prototypes[BikeType::giant];
+  delete _prototypes[BikeType::kross];
+  delete _prototypes[BikeType::rondo];
+  delete _prototypes[BikeType::merida];
 }
 
 Bike *
