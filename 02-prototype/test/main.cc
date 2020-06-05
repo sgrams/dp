@@ -4,12 +4,9 @@
 */
 #include <iostream>
 #include <cstdint>
-#include <thread>
-#include <future>
-#include <numeric>
-#include <vector>
 #include <gtest/gtest.h>
-#include "../include/prototype.hh"
+#include "../include/garage.hh"
+#include "../include/bike.hh"
 
 TEST (utprototype_init, main) {
   // arrange

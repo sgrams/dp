@@ -8,8 +8,10 @@ find_package(GTest REQUIRED)
 enable_testing()
 
 set(LIBPROTOTYPE_SRC
-  src/prototype.cc
-  include/prototype.hh
+  src/garage.cc
+  src/bike.cc
+  include/garage.hh
+  include/bike.hh
   include/macro.hh
   )
 
