@@ -10,8 +10,6 @@
 #include "../include/garage.hh"
 #include "../include/bike.hh"
 
-
-
 TEST (utprototype_init, garage_fail) {
   // arrange
   BikePrototypeFactory bkf;
