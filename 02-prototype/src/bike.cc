@@ -33,12 +33,28 @@ BikePrototypeFactory::create_bike (BikeType bike_type) {
 /*
   Bike class (prototype)
 */
+Bike::Bike () {
+}
+
+Bike::Bike (std::string name) {
+  this->_bike_name = name;
+}
+
 void
-Bike::take_the_bike_out (float kilometrage) {
+Bike::set_kilometrage (float kilometrage) {
   this->_bike_kilometrage = kilometrage;
-  std::cout << "You took your " << _bike_name
-    << " bike for a ride! You already rode it for " << _bike_kilometrage
-    << " km." << std::endl;
+}
+
+std::string
+Bike::take_the_bike_out () {
+  this->_bike_kilometrage += 100.0;
+
+  std::string out = std::string ("You took your " +
+      this->_bike_name +
+      " bike for a ride! You already rode it for " +
+      std::to_string (this->_bike_kilometrage) +
+      " km.");
+  return out;
 }
 
 /*

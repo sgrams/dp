@@ -23,15 +23,16 @@ enum BikeType {
 class Bike {
   protected:
     std::string _bike_name;
-    float       _bike_kilometrage;
+    float       _bike_kilometrage{0.0};
 
   public:
-    Bike () {};
-    Bike (std::string name) : _bike_name(name) {};
+    Bike ();
+    Bike (std::string name);
 
     virtual ~Bike () {};
     virtual Bike *clone () const = 0;
-    virtual void take_the_bike_out (float kilometrage);
+    virtual void set_kilometrage (float kilometrage);
+    virtual std::string take_the_bike_out ();
 };
 
 /*
