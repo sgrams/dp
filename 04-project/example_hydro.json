@@ -1,0 +1,1095 @@
+{
+    "connections": {
+        "hydroDown": {
+            "item1": "153190130",
+            "item2": "Bzura-Drweca",
+            "item3": "KULIGI",
+            "item4": "hydro"
+        },
+        "hydroUp": null,
+        "meteo": [
+            {
+                "item1": "253190220",
+                "item2": "Bzura-Drweca",
+                "item3": "LIDZBARK",
+                "item4": "meteo"
+            },
+            {
+                "item1": "253190310",
+                "item2": "Bzura-Drweca",
+                "item3": "KULIGI",
+                "item4": "meteo"
+            },
+            {
+                "item1": "353200270",
+                "item2": "Narew_bez_Bugu",
+                "item3": "MŁAWA",
+                "item4": "meteo"
+            }
+        ]
+    },
+    "dataClause": null,
+    "dischargeRecords": [
+        {
+            "date": "2020-06-10T01:00:00Z",
+            "dreId": 1587,
+            "id": 3973250691300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T02:00:00Z",
+            "dreId": 1587,
+            "id": 3973606559200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T03:00:00Z",
+            "dreId": 1587,
+            "id": 3973962757800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T04:00:00Z",
+            "dreId": 1587,
+            "id": 3974325770900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T05:00:00Z",
+            "dreId": 1587,
+            "id": 3974684047100,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T06:00:00Z",
+            "dreId": 1587,
+            "id": 3975551049700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T07:00:00Z",
+            "dreId": 1587,
+            "id": 3976036094000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T08:00:00Z",
+            "dreId": 1587,
+            "id": 3976408801400,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T09:00:00Z",
+            "dreId": 1587,
+            "id": 3976762029800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T10:00:00Z",
+            "dreId": 1587,
+            "id": 3977115208000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T11:00:00Z",
+            "dreId": 1587,
+            "id": 3977470729200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T12:00:00Z",
+            "dreId": 1587,
+            "id": 3977822693700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T13:00:00Z",
+            "dreId": 1587,
+            "id": 3978177085300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T14:00:00Z",
+            "dreId": 1587,
+            "id": 3978535997700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T15:00:00Z",
+            "dreId": 1587,
+            "id": 3978884537900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T16:00:00Z",
+            "dreId": 1587,
+            "id": 3979241331000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T17:00:00Z",
+            "dreId": 1587,
+            "id": 3979598859000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T18:00:00Z",
+            "dreId": 1587,
+            "id": 3979965762200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T19:00:00Z",
+            "dreId": 1587,
+            "id": 3980321692000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T20:00:00Z",
+            "dreId": 1587,
+            "id": 3980679943100,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T21:00:00Z",
+            "dreId": 1587,
+            "id": 3981035341400,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T22:00:00Z",
+            "dreId": 1587,
+            "id": 3981391018500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-10T23:00:00Z",
+            "dreId": 1587,
+            "id": 3981745397700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T00:00:00Z",
+            "dreId": 1587,
+            "id": 3982100608900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T01:00:00Z",
+            "dreId": 1587,
+            "id": 3982457097700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T02:00:00Z",
+            "dreId": 1587,
+            "id": 3982814045000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T03:00:00Z",
+            "dreId": 1587,
+            "id": 3983177174500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T04:00:00Z",
+            "dreId": 1587,
+            "id": 3983532798000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T05:00:00Z",
+            "dreId": 1587,
+            "id": 3983964107000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T06:00:00Z",
+            "dreId": 1587,
+            "id": 3984928380000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T07:00:00Z",
+            "dreId": 1587,
+            "id": 3985448098900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T08:00:00Z",
+            "dreId": 1587,
+            "id": 3985830397100,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T09:00:00Z",
+            "dreId": 1587,
+            "id": 3986202412700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T10:00:00Z",
+            "dreId": 1587,
+            "id": 3986557330300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T11:00:00Z",
+            "dreId": 1587,
+            "id": 3986930753200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T12:00:00Z",
+            "dreId": 1587,
+            "id": 3987343084200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T13:00:00Z",
+            "dreId": 1587,
+            "id": 3987709044600,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T14:00:00Z",
+            "dreId": 1587,
+            "id": 3988063954900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T15:00:00Z",
+            "dreId": 1587,
+            "id": 3988418935300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T16:00:00Z",
+            "dreId": 1587,
+            "id": 3988775541700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T17:00:00Z",
+            "dreId": 1587,
+            "id": 3989162036500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T18:00:00Z",
+            "dreId": 1587,
+            "id": 3989526168800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T19:00:00Z",
+            "dreId": 1587,
+            "id": 3989888646700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T20:00:00Z",
+            "dreId": 1587,
+            "id": 3990248709600,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T21:00:00Z",
+            "dreId": 1587,
+            "id": 3990605607500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T22:00:00Z",
+            "dreId": 1587,
+            "id": 3990962572700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-11T23:00:00Z",
+            "dreId": 1587,
+            "id": 3991318269000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T00:00:00Z",
+            "dreId": 1587,
+            "id": 3991674750300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T01:00:00Z",
+            "dreId": 1587,
+            "id": 3991800958600,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T02:00:00Z",
+            "dreId": 1587,
+            "id": 3991800958700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T03:00:00Z",
+            "dreId": 1587,
+            "id": 3991800958800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T04:00:00Z",
+            "dreId": 1587,
+            "id": 3991800958900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T05:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T06:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959100,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T07:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T08:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.16,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T09:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959400,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.12,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T10:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T11:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959600,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T12:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.09,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T13:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T14:00:00Z",
+            "dreId": 1587,
+            "id": 3991800959900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T15:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T16:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960100,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T17:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960200,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T18:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960300,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T19:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960400,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T20:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960500,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T21:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960600,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T22:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960700,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-12T23:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960800,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-13T00:00:00Z",
+            "dreId": 1587,
+            "id": 3991800960900,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        },
+        {
+            "date": "2020-06-13T01:00:00Z",
+            "dreId": 1587,
+            "id": 3991800961000,
+            "operationId": "Przepływ operacyjny",
+            "parameterId": "B00050W",
+            "value": 2.05,
+            "versionId": -1
+        }
+    ],
+    "highDischargeValue": 3.74,
+    "highestHighDischargeValue": 12.9,
+    "id": "153190150",
+    "lowDischargeValue": 2.18,
+    "lowestLowDischargeValue": 0.74,
+    "mediumHighDischargeValue": 6.37,
+    "mediumLowDischargeValue": 1.69,
+    "mediumOfYearMediumsDischargeValue": 3.28,
+    "name": "LIDZBARK",
+    "state": "low",
+    "status": {
+        "alarmValue": 120,
+        "belowValue": null,
+        "catchmentArea": 516.67,
+        "currentDate": "2020-06-13T01:10:00Z",
+        "currentValue": 48,
+        "description": "LIDZBARK",
+        "highValue": 91,
+        "isFromObs": false,
+        "lowValue": 59,
+        "name": "153190150",
+        "note": null,
+        "parameter": "B00002A",
+        "previousDate": "2020-06-13T01:00:00Z",
+        "previousValue": 48,
+        "province": "warmińsko-mazurskie",
+        "river": "Wel (286)",
+        "riverCourseKm": 41.92,
+        "state": 0,
+        "trend": 0,
+        "warningValue": 110,
+        "waterGaugeZeroOrdinate": 127.223
+    },
+    "trend": "const",
+    "waterStateObserverRecords": [],
+    "waterStateRecords": [
+        {
+            "date": "2020-06-10T01:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T02:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T03:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T04:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T05:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T06:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T07:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T08:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T09:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T10:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-10T11:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T12:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T13:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T14:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T15:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T16:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T17:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T18:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T19:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T20:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T21:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T22:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-10T23:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T00:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T01:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T02:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T03:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T04:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T05:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T06:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T07:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T08:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T09:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-11T10:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T11:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T12:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T13:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T14:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T15:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-11T16:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T17:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T18:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T19:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-11T20:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-11T21:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-11T22:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-11T23:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T00:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T01:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T02:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T03:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T04:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T05:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T06:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T07:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T08:00:00Z",
+            "state": "low",
+            "value": 51
+        },
+        {
+            "date": "2020-06-12T09:00:00Z",
+            "state": "low",
+            "value": 50
+        },
+        {
+            "date": "2020-06-12T10:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T11:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T12:00:00Z",
+            "state": "low",
+            "value": 49
+        },
+        {
+            "date": "2020-06-12T13:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T14:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T15:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T16:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T17:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T18:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T19:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T20:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T21:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T22:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-12T23:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-13T00:00:00Z",
+            "state": "low",
+            "value": 48
+        },
+        {
+            "date": "2020-06-13T01:00:00Z",
+            "state": "low",
+            "value": 48
+        }
+    ],
+    "waterTemperatureAutoRecords": [],
+    "waterTemperatureObsRecords": []
+}

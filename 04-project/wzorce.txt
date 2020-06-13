@@ -1,0 +1,8 @@
+- singleton (agent_c)
+- prototyp (station_c)
+
+- dekorator (measurement_c)
+- fasada (station_facade_c)
+
+- strategia (strategy_c)
+- iterator
